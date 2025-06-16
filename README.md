@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 💻 Currently working as an **Associate Software Engineer at KPIT Technologies, Pune**
+- 💻 Currently working as an **Software Engineer at KPIT Technologies, Pune**
 - 🚀 Exploring **Modern C++ (C++11/14/17)**, **Backend Development**, and **System Design**
 - 🧠 Actively learning **DSA**, **Low-Level Design**, and development frameworks
 - 📸 Built real-time computer vision projects using **OpenCV** (Lane Detection, Vehicle Tracking)
