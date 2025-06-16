@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gavkare_shubham" target="blank"><img src="https://img.shields.io/twitter/follow/gavkare_shubham?logo=twitter&style=for-the-badge" alt="gavkare_shubham" /></a> </p>
 
-- 🔭 I’m currently working on **Modern CPP, OpenCV**
+- 🔭 I’m currently working on **Modern CPP, Python, Backend, OOPs**
 
 - 🌱 I’m currently learning **DSA and Development frameworks**
 
